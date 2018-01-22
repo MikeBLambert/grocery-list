@@ -1,0 +1,23 @@
+body {
+  background-color: #fcff66;
+}
+.form-control {
+  width: 95%;
+}
+
+h1 {
+  text-align: center;
+}
+button {
+  margin-left: 45%;
+}
+
+.well {
+  margin: 100px;
+  padding: 35px;
+  background-color: #8de833;
+}
+
+.fullList {
+  font-size: 35px;
+}
